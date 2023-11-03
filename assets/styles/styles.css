@@ -616,83 +616,100 @@ body {
     padding: 10px;
     margin-right: 0 100px;
 }
-.images1{
+
+.images1 {
     border: 1px solid black;
     text-align: center;
 }
-.images2{
-    border: 1px solid black;
-    text-align: center;
-    margin: 40px 0;
-}
-.images3{
+
+.images2 {
     border: 1px solid black;
     text-align: center;
     margin: 40px 0;
 }
-.images4{
+
+.images3 {
     border: 1px solid black;
     text-align: center;
     margin: 40px 0;
 }
-.images5{
+
+.images4 {
     border: 1px solid black;
     text-align: center;
     margin: 40px 0;
 }
-.images6{
+
+.images5 {
     border: 1px solid black;
     text-align: center;
     margin: 40px 0;
 }
-.overal123456{
+
+.images6 {
+    border: 1px solid black;
+    text-align: center;
+    margin: 40px 0;
+}
+
+.overal123456 {
     border: 1px solid black;
     display: flex;
 
 }
-.images7{
+
+.images7 {
     border: 1px solid black;
     text-align: center;
     margin: 40px 0;
 }
-.images8{
+
+.images8 {
     border: 1px solid black;
     text-align: center;
     margin: 40px 0;
 }
-.images9{
-    border: 1px solid black;
-    text-align: center;
-    margin: 40px 0;
-}.images10{
+
+.images9 {
     border: 1px solid black;
     text-align: center;
     margin: 40px 0;
 }
-.overal789{
+
+.images10 {
+    border: 1px solid black;
+    text-align: center;
+    margin: 40px 0;
+}
+
+.overal789 {
     border: 1px solid black;
     display: flex;
 
 }
-.images11{
+
+.images11 {
     border: 1px solid black;
     text-align: center;
     margin: 40px 0;
     display: flex;
 }
-.images11a{
+
+.images11a {
     border: 1px solid black;
     text-align: center;
     margin: 40px 0;
-    
+
 }
-.images11b{
+
+.images11b {
     border: 1px solid black;
     text-align: center;
     margin-left: 100px;
     background-color: blanchedalmond;
 }
-.images11c{
+
+.images11c {
     border: 1px solid black;
     text-align: center;
     margin: 40px 0;
