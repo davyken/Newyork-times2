@@ -33,8 +33,8 @@ body {
 }
 
 .title {
-  border-bottom: 1px solid black;
   display: flex;
+  font-family: EngraversOldEnglishBold, sans-serif;
 }
 
 .options {
@@ -250,6 +250,11 @@ body {
   display: flex;
   border-top: 1px solid black;
   width: 75vw;
+}
+
+@font-face {
+  font-family: engravers01dEnglishBold;
+  src:  url("./fonts/Engravers\ Old\ English\ Normal.ttf") ;
 }
 
 .sette1 {
