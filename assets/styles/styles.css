@@ -668,368 +668,352 @@ body {
 }
 
 .food2 {
-    border-right: 1px solid black;
-    text-align: center;
-    margin: 40px 0;
+  border-right: 1px solid black;
+  text-align: center;
+  margin: 40px 0;
 }
 
 .food3 {
-    border-right: 1px solid black;
-    text-align: center;
-    margin: 40px 0;
+  border-right: 1px solid black;
+  text-align: center;
+  margin: 40px 0;
 }
 
 .food4 {
-    border-right: 1px solid black;
-    text-align: center;
-    margin: 40px 0;
+  border-right: 1px solid black;
+  text-align: center;
+  margin: 40px 0;
 }
 
 .food5 {
-    border-right: 1px solid black;
-    text-align: center;
-    margin: 40px 0;
+  border-right: 1px solid black;
+  text-align: center;
+  margin: 40px 0;
 }
 
 .overalfood {
-    border-top: 1px solid black;
-    display: flex;
+  border-top: 1px solid black;
+  display: flex;
 }
 
 .icon1 {
-    border-right: 1px solid black;
-    display: flex;
+  border-right: 1px solid black;
+  display: flex;
 }
 
 .ic1a {
-    margin: 70px 0;
-    margin: 10px;
+  margin: 70px 0;
+  margin: 10px;
 }
 
-
 .icon2 {
-    border-right: 1px solid black;
-    display: flex;
+  border-right: 1px solid black;
+  display: flex;
 }
 
 .ica {
-    margin: 70px 0;
-
+  margin: 70px 0;
 }
 
 .icon3 {
-    border-right: 1px solid black;
-    display: flex;
+  border-right: 1px solid black;
+  display: flex;
 }
 
 .ic3a {
-    margin: 70px 0;
-
+  margin: 70px 0;
 }
 
-
 .icon4 {
-    border-right: 1px solid black;
-    display: flex;
+  border-right: 1px solid black;
+  display: flex;
 }
 
 .ic4a {
-    margin: 70px 0;
-    margin: 10px;
+  margin: 70px 0;
+  margin: 10px;
 }
 
 .icon5 {
-    border-right: 1px solid black;
-    display: flex;
+  border-right: 1px solid black;
+  display: flex;
 }
 
 .ic5a {
-    margin: 70px 0;
+  margin: 70px 0;
 }
 
 .icon6 {
-    border-right: 1px solid black;
-    display: flex;
+  border-right: 1px solid black;
+  display: flex;
 }
 
 .ic6a {
-    margin: 70px 0;
+  margin: 70px 0;
 }
 
 .icon123 {
-    border-top: 1px solid black;
-    display: flex;
-    justify-content: space-between;
+  border-top: 1px solid black;
+  display: flex;
+  justify-content: space-between;
 }
 
 .icon456 {
-    border-top: 1px solid black;
-    display: flex;
-    justify-content: space-between;
+  border-top: 1px solid black;
+  display: flex;
+  justify-content: space-between;
 }
 
 .bfooter {
-    border-top: 1px solid black;
-    display: flex;
-
+  border-top: 1px solid black;
+  display: flex;
 }
 
 .bfooter1 {
-    border-right: 1px solid black;
-    flex-direction: column;
-    margin: 10px;
+  border-right: 1px solid black;
+  flex-direction: column;
+  margin: 10px;
 }
 
 .bfooter2 {
-    border-right: 1px solid black;
-    flex-direction: column;
-    margin: 10px;
+  border-right: 1px solid black;
+  flex-direction: column;
+  margin: 10px;
 }
 
 .bfooter3 {
-    border-right: 1px solid black;
-    flex-direction: column;
-    margin: 10px;
+  border-right: 1px solid black;
+  flex-direction: column;
+  margin: 10px;
 }
 
 .bfooter4 {
-    border-right: 1px solid black;
-    flex-direction: column;
-    margin: 10px;
+  border-right: 1px solid black;
+  flex-direction: column;
+  margin: 10px;
 }
 
 .bfooter5 {
-    border-right: 1px solid black;
-    flex-direction: column;
-    margin: 10px;
+  border-right: 1px solid black;
+  flex-direction: column;
+  margin: 10px;
 }
 
 .bfooter6 {
-    border-right: 1px solid black;
-    flex-direction: column;
-    margin: 10px;
+  border-right: 1px solid black;
+  flex-direction: column;
+  margin: 10px;
 }
 
 .bff {
-
-    border-top: 1px solid black;
-    display: flex;
+  border-top: 1px solid black;
+  display: flex;
 }
 
 .bff1 {
-    border-right: 1px solid black;
-    flex-direction: column;
-    margin: 10px;
+  border-right: 1px solid black;
+  flex-direction: column;
+  margin: 10px;
 }
 
 .bff2 {
-    border-right: 1px solid black;
-    flex-direction: column;
-    margin: 10px;
+  border-right: 1px solid black;
+  flex-direction: column;
+  margin: 10px;
 }
 
 .bff3 {
-    border-right: 1px solid black;
-    flex-direction: column;
-    margin: 10px;
+  border-right: 1px solid black;
+  flex-direction: column;
+  margin: 10px;
 }
 
 .bff4 {
-    border-right: 1px solid black;
-    flex-direction: column;
-    margin: 10px;
+  border-right: 1px solid black;
+  flex-direction: column;
+  margin: 10px;
 }
 
 .bff5 {
-    border-right: 1px solid black;
-    flex-direction: column;
-    margin: 10px;
+  border-right: 1px solid black;
+  flex-direction: column;
+  margin: 10px;
 }
 
 .bff6 {
-    border-right: 1px solid black;
-    flex-direction: column;
-    margin: 10px;
+  border-right: 1px solid black;
+  flex-direction: column;
+  margin: 10px;
 }
 
 .bfff {
-
-    border-top: 1px solid black;
-    display: flex;
+  border-top: 1px solid black;
+  display: flex;
 }
 
 .bfff1 {
-    border-right: 1px solid black;
-    flex-direction: column;
-    margin: 10px;
+  border-right: 1px solid black;
+  flex-direction: column;
+  margin: 10px;
 }
 
 .bfff2 {
-    border-right: 1px solid black;
-    flex-direction: column;
-    margin: 10px;
+  border-right: 1px solid black;
+  flex-direction: column;
+  margin: 10px;
 }
 
 .bfff3 {
-    border-right: 1px solid black;
-    flex-direction: column;
-    margin: 10px;
+  border-right: 1px solid black;
+  flex-direction: column;
+  margin: 10px;
 }
 
 .bfff4 {
-    border-right: 1px solid black;
-    flex-direction: column;
-    margin: 10px;
+  border-right: 1px solid black;
+  flex-direction: column;
+  margin: 10px;
 }
 
 .bfff5 {
-    border-right: 1px solid black;
-    flex-direction: column;
-    margin: 10px;
+  border-right: 1px solid black;
+  flex-direction: column;
+  margin: 10px;
 }
 
 .bfff6 {
-    border-right: 1px solid black;
-    flex-direction: column;
-    margin: 10px;
+  border-right: 1px solid black;
+  flex-direction: column;
+  margin: 10px;
 }
 
 .bfff1 {
-    border-top: 1px solid black;
-    flex-direction: column;
-    margin: 10px;
+  border-top: 1px solid black;
+  flex-direction: column;
+  margin: 10px;
 }
 
 .bffff {
-    border-right: 1px solid black;
-    display: flex;
+  border-right: 1px solid black;
+  display: flex;
 }
 
 .bffff1 {
-    border-right: 1px solid black;
-    flex-direction: column;
-    margin: 10px;
+  border-right: 1px solid black;
+  flex-direction: column;
+  margin: 10px;
 }
 
 .bffff2 {
-    border-right: 1px solid black;
-    flex-direction: column;
-    margin: 10px;
+  border-right: 1px solid black;
+  flex-direction: column;
+  margin: 10px;
 }
 
 .bffff3 {
-    border-right: 1px solid black;
-    flex-direction: column;
-    margin: 10px;
+  border-right: 1px solid black;
+  flex-direction: column;
+  margin: 10px;
 }
 
 .bffff4 {
-    border-right: 1px solid black;
-    flex-direction: column;
-    margin: 10px;
+  border-right: 1px solid black;
+  flex-direction: column;
+  margin: 10px;
 }
 
 .bffff5 {
-    border-right: 1px solid black;
-    flex-direction: column;
-    margin: 10px;
+  border-right: 1px solid black;
+  flex-direction: column;
+  margin: 10px;
 }
 
 .bffff6 {
-    border-right: 1px solid black;
-    flex-direction: column;
-    margin: 10px;
+  border-right: 1px solid black;
+  flex-direction: column;
+  margin: 10px;
 }
 
 .bfffff {
-    border-top: 1px solid black;
-    display: flex;
+  border-top: 1px solid black;
+  display: flex;
 }
 
 .bfffff1 {
-    border-right: 1px solid black;
-    flex-direction: column;
-    margin: 10px;
+  border-right: 1px solid black;
+  flex-direction: column;
+  margin: 10px;
 }
 
 .bfffff2 {
-    border-right: 1px solid black;
-    flex-direction: column;
-    margin: 10px;
+  border-right: 1px solid black;
+  flex-direction: column;
+  margin: 10px;
 }
 
 .bfffff3 {
-    border-right: 1px solid black;
-    flex-direction: column;
-    margin: 10px;
+  border-right: 1px solid black;
+  flex-direction: column;
+  margin: 10px;
 }
 
 .bfffff4 {
-    border-right: 1px solid black;
-    flex-direction: column;
-    margin: 10px;
-
+  border-right: 1px solid black;
+  flex-direction: column;
+  margin: 10px;
 }
 
 .ff1 {
-
-    flex-direction: column;
+  flex-direction: column;
 }
 
 .ff2 {
-
-    flex-direction: column;
+  flex-direction: column;
 }
 
 .ff3 {
-
-    flex-direction: column;
+  flex-direction: column;
 }
 
 .ff4 {
-
-    flex-direction: column;
+  flex-direction: column;
 }
 
 .ff5 {
-
-    flex-direction: column;
+  flex-direction: column;
 }
 
 .ff6 {
-    border-left: 1px solid black;
-    flex-direction: column;
+  border-left: 1px solid black;
+  flex-direction: column;
 }
 
 .sitebox {
-    border-top: 1px solid black;
-    display: flex;
-    justify-content: center;
+  border-top: 1px solid black;
+  display: flex;
+  justify-content: center;
 }
 
 .ff7 {
-
-    display: flex;
-    justify-content: space-between;
+  display: flex;
+  justify-content: space-between;
 }
 
 .overalfooter {
-    flex-direction: column;
-
+  flex-direction: column;
 }
 
 .overalsitbox {
-    flex-direction: column;
+  flex-direction: column;
 }
 
 .overalfooter1 {
-    display: flex;
-    justify-content: space-between;
-    list-style: none;
-    border-top: 1px solid black;
+  display: flex;
+  justify-content: space-between;
+  list-style: none;
+  border-top: 1px solid black;
 }
 
 .overalmathperry {
-    border-top: 1px solid black;
+  border-top: 1px solid black;
 }
-
