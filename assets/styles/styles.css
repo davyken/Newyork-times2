@@ -1,5 +1,4 @@
 body {
-  margin: 0;
   box-sizing: border-box;
   padding: 0%;
   margin: 0 80px 80px;
@@ -13,7 +12,6 @@ body {
 .us {
   display: flex;
   gap: 10px;
-
 }
 
 .subscribe {
@@ -35,7 +33,7 @@ body {
 }
 
 .title {
-  border-bottom: 1px solid rgb(72, 72, 72);
+  border-bottom: 1px solid black;
   display: flex;
 }
 
@@ -52,16 +50,14 @@ body {
 }
 
 .picture {
-
-    display: flex;
-    padding-left: 100px;
-    border-left: 1px solid black;
+  display: flex;
+  padding-left: 100px;
+  border-left: 1px solid black;
 }
 
 .firt2box {
   display: flex;
   padding: 10px;
-
 }
 
 .box1 {
@@ -115,7 +111,6 @@ body {
 .b {
   flex-direction: column;
   border-bottom: 1px;
-
 }
 
 .corner1 {
@@ -147,7 +142,7 @@ body {
 }
 
 .overallall {
-  border-top: 1px solid black
+  border-top: 1px solid black;
 }
 
 .breaking {
@@ -188,7 +183,6 @@ body {
   flex-direction: column;
   border-bottom: 1px solid black;
   margin: 1000px 10px;
-  margin: 100px;
   text-align: left;
 }
 
@@ -197,7 +191,6 @@ body {
   border-bottom: 1px solid black;
   margin: 10px;
   text-align: left;
-  margin: 100px 0;
 }
 
 .due12 {
@@ -387,7 +380,6 @@ body {
   display: flex;
   margin-right: 0 1000px;
   text-align: left;
-  margin: 10px;
 }
 
 .fdtext {
@@ -398,7 +390,6 @@ body {
   border-left: 1px solid black;
   display: flex;
   margin-right: 0 100px;
-  margin: 10px;
 }
 
 .fd1text {
@@ -410,14 +401,12 @@ body {
   display: flex;
   margin-right: 0 100px;
   flex-direction: column;
-  margin: 10px;
 }
 
 .fd3 {
   display: flex;
   margin-right: 0 100px;
   flex-direction: column;
-  margin: 10px;
 }
 
 .fd4 {
@@ -425,7 +414,6 @@ body {
   display: flex;
   margin-right: 0 100px;
   flex-direction: column;
-  margin: 10px;
 }
 
 .fd5 {
@@ -433,7 +421,6 @@ body {
   display: flex;
   margin-right: 0 100px;
   flex-direction: column;
-  margin: 10px;
 }
 
 .fd5a {
@@ -441,14 +428,12 @@ body {
   display: flex;
   margin-right: 0 100px;
   flex-direction: column;
-  margin: 10px;
 }
 
 .fd5b {
   display: flex;
   margin-right: 0 100px;
   flex-direction: column;
-  margin: 10px;
 }
 
 .fd6 {
@@ -456,7 +441,6 @@ body {
   display: flex;
   margin-right: 0 100px;
   flex-direction: column;
-  margin: 10px;
 }
 
 .fd7 {
@@ -464,7 +448,6 @@ body {
   display: flex;
   margin-right: 0 100px;
   flex-direction: column;
-  margin: 10px;
 }
 
 .fd8 {
@@ -472,7 +455,6 @@ body {
   display: flex;
   margin-right: 0 100px;
   flex-direction: column;
-  margin: 10px;
 }
 
 .fd8a {
@@ -480,14 +462,12 @@ body {
   display: flex;
   margin-right: 0 100px;
   flex-direction: column;
-  margin: 10px;
 }
 
 .fd8b {
   display: flex;
   margin-right: 0 100px;
   flex-direction: column;
-  margin: 10px;
 }
 
 .alone {
@@ -495,7 +475,6 @@ body {
   display: flex;
   margin-right: 0 100px;
   flex-direction: column;
-  margin: 10px;
 }
 
 .coverpage {
@@ -510,7 +489,6 @@ body {
   display: flex;
   margin-right: 0 100px;
   flex-direction: column;
-  margin: 10px;
 }
 
 .fd10 {
@@ -518,7 +496,6 @@ body {
   display: flex;
   margin-right: 0 100px;
   flex-direction: column;
-  margin: 10px;
 }
 
 .fd11 {
@@ -526,7 +503,6 @@ body {
   display: flex;
   margin-right: 0 100px;
   flex-direction: column;
-  margin: 10px;
 }
 
 .overallfriedman {
@@ -603,9 +579,9 @@ body {
 }
 
 .images10 {
-    border-right: 1px solid black;
-    text-align: center;
-    margin: 40px 0;
+  border-right: 1px solid black;
+  text-align: center;
+  margin: 40px 0;
 }
 
 .overal789 {
